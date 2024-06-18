@@ -12,6 +12,9 @@ export default {
       fontSize: {
         '6xl': '3.5rem',
       },
+      colors: {
+        'pale-purple': '#8B6990',
+      },
     },
   },
 }
