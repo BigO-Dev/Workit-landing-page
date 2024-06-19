@@ -14,6 +14,7 @@ export default {
       },
       colors: {
         'pale-purple': '#8B6990',
+        'light-pink': '#F8EEFF',
       },
     },
   },
