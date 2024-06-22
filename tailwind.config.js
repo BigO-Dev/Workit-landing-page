@@ -14,8 +14,7 @@ export default {
         'manrope': ['Manrope', 'sans-serif'],
       },
       backgroundImage: {
-        'hero-pattern': "url('/assets/images/bg-pattern-1.svg')",
-        'rectangle': "url('/assets/images/Rectangle.png')",
+        'hero-image': "url('/assets/images/hero-image.png')",
       },
     },
   },
